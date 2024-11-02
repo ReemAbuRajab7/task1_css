@@ -1,0 +1,18 @@
+.container {
+    width: 80%;
+    
+}
+
+.header {
+    text-align: center;
+}
+
+.service {
+    text-align: center;
+    width: 20%;
+    float: left;
+}
+
+.clear-fix{
+clear: both;
+}
